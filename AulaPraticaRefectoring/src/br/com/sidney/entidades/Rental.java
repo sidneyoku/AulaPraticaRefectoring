@@ -1,4 +1,4 @@
-package entidades;
+package br.com.sidney.entidades;
 
 public class Rental {
 	private Movie _movie;
